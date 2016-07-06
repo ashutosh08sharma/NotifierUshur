@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "json-socket": "^0.1.2"
+  }
+}
